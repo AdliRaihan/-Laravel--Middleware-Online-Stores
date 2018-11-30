@@ -29,5 +29,5 @@ Frameworks yang dipakai :
 <code>
     php artisan serve    
 </code>
-
-<img src="documentation_image/landing_images.png" width="20%">
+<br><br>
+<img src="documentation_image/add_item.png" width="20%">
