@@ -30,18 +30,18 @@ Frameworks yang dipakai :
     php artisan serve    
 </code>
 <br><br>
-<center>
-    
+
+<div style="display:inline-block;">
 <h4>Homepage</h4>
 <img src="documentation_images/landing_images.png" width="25%">
 <h4>Homepage + login modal</h4>
 <img src="documentation_images/landing_login.png" width="25%">
-
 <h4>List Page [Role : Admin]</h4>
 <img src="documentation_images/user_page_admin.png" width="25%">
 <h4>List Page [Role : Viewer]</h4>
 <img src="documentation_images/user_page_view.png" width="25%">
 <h4>Add Item Page</h4>
 <img src="documentation_images/add_item.png" width="25%">
-</center>
+</spoiler>
+</div>
 
