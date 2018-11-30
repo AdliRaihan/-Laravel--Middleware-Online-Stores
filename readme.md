@@ -29,6 +29,7 @@ Frameworks yang dipakai :
     
 
 <h2>Installation</h2>
+oh iya anda jelas butuh requirement untuk menginstall laravel https://laravel.com/docs/5.7/installation
 <code>
     php artisan serve    
 </code>
