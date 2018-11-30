@@ -30,4 +30,4 @@ Frameworks yang dipakai :
     php artisan serve    
 </code>
 <br><br>
-<img src="documentation_image/add_item.png" width="20%">
+<img src="documentation_images/add_item.png" width="20%">
