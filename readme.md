@@ -29,10 +29,11 @@ Frameworks yang dipakai :
     
 
 <h2>Installation</h2>
-oh iya anda jelas butuh requirement untuk menginstall laravel https://laravel.com/docs/5.7/installation , setelah itu baru open cmd dan ketikan <i>target dulu cd cmd ke folder laravelnya</i><br>
+oh iya anda jelas butuh requirement untuk menginstall laravel https://laravel.com/docs/5.7/installation , setelah itu baru open cmd dan ketikan<br>
 <code>
     php artisan serve    
-</code>
+</code><br>
+ <i>Sebelumnya coba target dulu cd cmd ke folder laravelnya [jika blm paham]</i>
 <br><br>
 
 <h4>Homepage</h4>
