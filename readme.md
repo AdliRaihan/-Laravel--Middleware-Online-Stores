@@ -31,9 +31,9 @@ Frameworks yang dipakai :
 </code>
 <br><br>
 
-Homepage
+<h4>Homepage</h4>
 <img src="documentation_images/landing_images.png" width="25%">
-Homepage + login moda
+<h4>Homepage + login modal</h4>
 <img src="documentation_images/landing_login.png" width="25%">
 <h4>List Page [Role : Admin]</h4>
 <img src="documentation_images/user_page_admin.png" width="25%">
@@ -42,3 +42,8 @@ Homepage + login moda
 <h4>Add Item Page</h4>
 <img src="documentation_images/add_item.png" width="25%">
 
+<hr/>
+
+<code>
+    jika ada pertanyaan bisa ditanyakan lewat email saya di adliraihan001@gmail.com
+    </code>
