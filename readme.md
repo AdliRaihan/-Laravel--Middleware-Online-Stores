@@ -1,6 +1,6 @@
 # [Laravel] Adding Items
 
-<h5>About</h5>
+<h2>About</h2>
 Web Structure :
 <ul>
     <li>Landing page</li>
