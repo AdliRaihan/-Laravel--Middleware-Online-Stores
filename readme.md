@@ -22,7 +22,7 @@ Frameworks yang dipakai :
     <li> Laravel </li>
     <li> jQuery+ </li>
     <li> Bootstrap </li>
-<ul>
+</ul>
     
 
 <h2>Installation</h2>
