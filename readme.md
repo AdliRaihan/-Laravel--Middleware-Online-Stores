@@ -1,5 +1,8 @@
 # [Laravel] Adding Items
 
+<p> Web ini menggunakan cookies melakukan penambahan data , jika anda butuh versi database laravel bisa di cek di <a href="https://github.com/DNoir/Laravel-CRUD">sini</a></p>
+
+
 <h2>About</h2>
 Web Structure :
 <ul>
