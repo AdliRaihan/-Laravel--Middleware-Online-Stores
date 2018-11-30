@@ -24,4 +24,10 @@ Frameworks yang dipakai :
     <li> Bootstrap </li>
 <ul>
     
-    
+
+<h2>Installation</h2>
+<code>
+    php artisan serve    
+</code>
+
+<img src="documentation_image/landing_images.png" width="20%">
